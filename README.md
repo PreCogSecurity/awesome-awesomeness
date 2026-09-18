@@ -1,11 +1,16 @@
 # Awesome Awesomeness
 
 A curated list of amazingly awesome awesomeness.
-Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
+
+> **About this repo:** This is a curated link-aggregation document with no
+> executable code. It collects links to other "awesome" lists organized by
+> topic. There is no build step, no test suite, and no application logic — the
+> content IS the repo. CI (see below) validates that listed links are still
+> reachable.
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-	- [Assembler](https://github.com/mat0thew/awesome-asm)
+	- [Assembler](https://github.com/Maijin/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- Clojure
@@ -29,7 +34,6 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
-			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
@@ -57,7 +61,6 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
 		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
-		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
@@ -90,7 +93,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Continuous Delivery](https://github.com/itech001/ciandcd)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Courses](https://github.com/prakhar1989/awesome-courses)
-	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
+	- [Creative Commons Media](https://github.com/lucian-s/creative-commons-media-clone)
 	- [Cryptography](https://github.com/MaciejCzyzewski/retter)
 	- [CSS](https://github.com/sota0805/awesome-css)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
